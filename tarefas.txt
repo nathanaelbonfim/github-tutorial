@@ -4,3 +4,4 @@
 - Caixa
 - Sobre
 - Finalizar compra
+- Whisky

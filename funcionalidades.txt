@@ -1,0 +1,10 @@
+- Itens do menu
+- Produtos
+- Mercadoria
+- Caixa
+- Sobre
+- Finalizar compra
+- Serviços
+- Cadastros
+- Abacaxi
+- Abobrinha

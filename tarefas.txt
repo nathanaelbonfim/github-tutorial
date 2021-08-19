@@ -6,3 +6,4 @@
 - Finalizar compra
 - Whisky
 - Yohann
+- Vitor

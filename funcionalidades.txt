@@ -8,4 +8,8 @@
 - Cadastros
 - Abacaxi
 - Abobrinha
+<<<<<<< HEAD
 - lucas
+=======
+- Purë de batata
+>>>>>>> 75342eff16a747cf440c022321d5bd3cc91ab8ec
